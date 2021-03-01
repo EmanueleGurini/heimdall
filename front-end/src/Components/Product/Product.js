@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import "./Product.css"
-import axios from '../axios.js'
+import axios from '../../axios.js'
 import AddCircleIcon from '@material-ui/icons/AddCircle';
 import RemoveCircleIcon from '@material-ui/icons/RemoveCircle';
 
