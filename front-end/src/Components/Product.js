@@ -40,15 +40,15 @@ function Product({ fetchUrl }) {
 
                         <div className="product__counter">
                             <button className="product__counterButton" onClick={() => {
-                                setCounter(counter - 1)
+                                setCounter(counter - 14)
                             }}>
                                 <RemoveCircleIcon className="product__removeCircle" fontSize="large"/>
                             </button>
                             <div className="product__count">
                                 <p><strong>{ counter }</strong></p>
-                                <p className={`${counter > product.variants[0].inventory_quantity ? 'alert_red' : "alert_white" }`}>{ product.variants[0].inventory_quantity - counter }</p>
+                                <p>{ product.variants[0].inventory_quantity - counter }</p>
                             </div>
-                            <button className="product__counterButton" onClick={() => {setCounter(counter + 1)}}>
+                            <button className="product__counterButton" onClick={() => {setCounter(counter + 14)}}>
                                 <AddCircleIcon className="product__addCircle" fontSize="large"/>
                             </button>
                         </div> {/* END product__count */}
