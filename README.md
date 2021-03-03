@@ -41,13 +41,19 @@ L’intero progetto si basa interamente su JavaScript ES6 ed è stato implementa
 Il sistema è disponibile come applicazione web. Per eseguire il codice sorgente è necessario digitare -in ordine- i seguenti comandi:
 
 git clone https://github.com/EmanueleGurini/heimdall
+
 npm i     *
+
 npm start
+
 cd ./Frontend
+
 npm i     *
+
 npm start
 
 *Il comando è necessario per il download dei node_modules, solo durante il primo utilizzo del sistema.
+
 
 
 ### Attenzione
