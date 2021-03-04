@@ -31,7 +31,6 @@ L’intero progetto si basa interamente su JavaScript ES6 ed è stato implementa
 *	React.js: libreria JavaScript utilizzata per lo sviluppo del frontend;
 *	Express: framework utilizzato per lo sviluppo del backend;
 *	Node.js: runtime di JavaScript basato su JavaScript V8 di Google Chrome.
-*	OAuth Code: library of components to simplify the use of OAuth2's Authorization Code Grant
 *	Shopify Api
 *	Shopify
 
