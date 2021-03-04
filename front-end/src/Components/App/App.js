@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
         <Products title="Netflix Box Small" />
-
     </div>
   );
 }
