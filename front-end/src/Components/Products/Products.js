@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Products.css";
-import Product from "../Components/Product/Product"
-import requests from "../requests"
+import Product from "../Product"
+import requests from "../../requests"
 
 function Products({ title }) {
     return (
