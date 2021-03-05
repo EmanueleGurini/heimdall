@@ -1,5 +1,7 @@
 # Heimdall
 
+![Screen di Heimdall](/front-end/src/Assets/Img/presentation.png)
+
 
 ## Cosa fa l’applicazione
 
