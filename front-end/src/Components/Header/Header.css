@@ -1,0 +1,6 @@
+.header {max-width: 1200px;margin: 0 auto;display: flex;justify-content: center;margin-top: 50px;}
+.header__items {border: 2px solid #000000;width: 170px;border-radius: 50px;display: flex;justify-content: center;margin-left: 10px;margin-right: 10px;padding: 10px 0;font-weight: 700;text-decoration: none;color: #000000;}
+.header__items > a {text-decoration: none;color: #000000;}
+.header__items:hover {transform: scale(1.1);opacity: 1; -webkit-box-shadow: 9px 8px 6px -4px rgba(0,0,0,0.14);
+    -moz-box-shadow: 9px 8px 6px -4px rgba(0,0,0,0.14);
+    box-shadow: 9px 8px 6px -4px rgba(0,0,0,0.14);}
