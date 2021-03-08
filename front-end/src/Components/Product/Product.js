@@ -6,7 +6,6 @@ import RemoveCircleIcon from '@material-ui/icons/RemoveCircle';
 
 function Product({ fetchUrl }) {
     const [products, setProducts] = useState([]);
-    const [magazzino, setMagazzino] = useState([]);
     const [counter, setCounter] = useState(0);
 
     useEffect(()=> {
