@@ -1,6 +1,6 @@
 # Heimdall
 
-![Screen di Heimdall](/front-end/src/Assets/Img/presentation.png)
+![Screen di Heimdall](/front-end/src/Assets/Img/img-presentation.png)
 
 
 ## Cosa fa l’applicazione
