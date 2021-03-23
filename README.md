@@ -5,14 +5,14 @@
 
 ## Cosa fa l’applicazione
 
-Il sistema Heimdall nasce per agevolare la gestione del magazzino di jerryamerica.com: e-commerce italiano attraverso cui è possibile acquistare prodotti dolciari e salati provenienti dagli USA. Jerry America ha all’interno della propria offerta merceologica anche delle Box che a seconda della loro grandezza (Small, Medium o Large) e tipologia (Netflix, Snack etc.) contengono quantità variabili di prodotti.
-Heimdall è stato progettato per agevolare il lavoro dei dipendenti di Jerry America in una precisa fase di controllo dei prodotti nel magazzino: quando bisogna verificare la disponibilità delle merci da inserire nelle Box.
+Il sistema Heimdall nasce per agevolare la gestione del magazzino per londonsweets.com: e-commerce italiano attraverso cui è possibile acquistare prodotti dolciari e salati provenienti dagli USA. London Sweets ha all’interno della propria offerta merceologica anche delle Box che a seconda della loro grandezza (Small, Medium o Large) e tipologia (Netflix, Snack etc.) contengono quantità variabili di prodotti.
+Heimdall è stato progettato per agevolare il lavoro dei dipendenti di Londow Sweets in una precisa fase di controllo dei prodotti nel magazzino: quando bisogna verificare la disponibilità delle merci da inserire nelle Box.
 
 
 ## Situazione Attuale
 
-Jerryamerica.com è attualmente su Shopify.
-I prodotti acquistabili sul sito di Jerry America sono inseriti all’interno della piattaforma direttamente dal pannello di controllo di Shopify. Le Box vendute su jerryamerica.com vengono preparate soltanto dopo aver ricevuto l’ordine di acquisto e dopo aver verificato in magazzino la disponibilità dei prodotti da inserire dentro le confezioni, ma quest’ultima verifica è affidata a una serie di fogli di calcolo Excel che rendono il processo lento e dispersivo. Le difficoltà maggiori si manifestano nel seguente caso: se un prodotto da inserire all’interno delle box dovesse mancare, l’addetto agli ordini ha il compito di sostituire l’articolo terminato con uno dello stesso prezzo e della stessa tipologia attraverso un copia incolla tra i vari fogli di calcolo.
+Londonsweets.com è attualmente su Shopify.
+I prodotti acquistabili sul sito di London Sweets sono inseriti all’interno della piattaforma direttamente dal pannello di controllo di Shopify. Le Box vendute su londonsweets.com vengono preparate soltanto dopo aver ricevuto l’ordine di acquisto e dopo aver verificato in magazzino la disponibilità dei prodotti da inserire dentro le confezioni, ma quest’ultima verifica è affidata a una serie di fogli di calcolo Excel che rendono il processo lento e dispersivo. Le difficoltà maggiori si manifestano nel seguente caso: se un prodotto da inserire all’interno delle box dovesse mancare, l’addetto agli ordini ha il compito di sostituire l’articolo terminato con uno dello stesso prezzo e della stessa tipologia attraverso un copia incolla tra i vari fogli di calcolo.
 
 
 ## Dopo l’introduzione del sistema Heimdall
